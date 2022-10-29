@@ -9,3 +9,5 @@ the best accuracy was found in SVM algorithm.
 i split into two files on healthkathon because google colab was crashed when i do it in one file. So, preprocessing was made in google colab then modelling and fit was made using jupynter notebook.
 it was a big process, since i processing 11million data. So i'm so sorry if the structure was so bad, its contain the old process and so messy. But there is a redline when i use
 random oversampling with total 1,9m data train and fit it on Random forest algorithm. It gives 92% accuracy.
+
+##anyway, you can find out my other project on this github, thank you:D
